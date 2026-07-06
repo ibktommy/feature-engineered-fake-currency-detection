@@ -2,3 +2,4 @@
 __pycache__/
 fake_currency_data.csv
 .kaggle/
+.idea
